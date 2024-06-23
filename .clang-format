@@ -1,0 +1,18 @@
+# Format Style Options - Created with Clang Power Tools
+---
+AlignAfterOpenBracket: AlwaysBreak 
+AlignConsecutiveAssignments: AcrossComments 
+AlignConsecutiveDeclarations: AcrossComments 
+AlignConsecutiveMacros: AcrossEmptyLines
+AlignTrailingComments: true
+AllowShortEnumsOnASingleLine: false
+AllowShortFunctionsOnASingleLine: None
+BasedOnStyle: WebKit
+BreakBeforeBinaryOperators: NonAssignment
+BreakBeforeBraces: Allman
+ColumnLimit: 80
+IndentCaseLabels: true
+Language: Cpp
+ReflowComments: true
+SortIncludes: false
+...
